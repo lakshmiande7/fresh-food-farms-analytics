@@ -1,1 +1,19 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data (don’t upload raw datasets)
+data/
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
 
