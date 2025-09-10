@@ -26,7 +26,7 @@ This project is part of my portfolio work where I analyze data from Fresh Food F
 3. Open the notebook
    jupyter notebook Fresh_Food_Farms_Project.ipynb
 
-  Project Structure:
+ # Project Structure:
   fresh-food-farms-analytics/
 │── Fresh_Food_Farms_Project.ipynb   # Main notebook
 │── requirements.txt
@@ -34,5 +34,5 @@ This project is part of my portfolio work where I analyze data from Fresh Food F
 │── README.md
 └── data/   # local only, not uploaded
 
-  Status:
+ # Status:
   This is still a work in progress. I’ll continue adding analysis, models, and visualizations................
