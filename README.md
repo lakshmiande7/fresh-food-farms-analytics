@@ -36,3 +36,18 @@ This project is part of my portfolio work where I analyze data from Fresh Food F
 
  # Status:
   This is still a work in progress. I’ll continue adding analysis, models, and visualizations................
+
+## Power BI Dashboard  
+
+This project also includes an interactive Power BI dashboard for deeper insights.  
+
+- 📊 [View Power BI Report](https://app.powerbi.com/)  
+- Data source: [freshfarms_final.csv](https://github.com/lakshmiande7/fresh-food-farms-analytics/blob/main/freshfarms_final.csv)  
+
+The dashboard covers:  
+- Sales trends over time  
+- Campaign performance  
+- Zone-wise revenue contribution  
+- Customer path sequences  
+- Product category insights  
+
