@@ -1,0 +1,251 @@
+Timestamp,Location_Zone,Hourly_Footfall,Dwell_Time_Seconds,Product_Interaction_Count,Customer_Path_Sequence,Estimated_Age_Range,Estimated_Gender,Marketing_Campaign_ID,Sales_Quantity_From_Zone,Sales_Revenue_From_Zone
+2024-07-05 18:00:00,promo zone,122.0,462.65,13.0,Dairy Section -> Produce Aisle -> Checkout -> New Arrivals,18-24,Female,FFM102,15,111.0017062000989
+2024-07-19 16:00:00,promo zone,102.0,649.0,9.0,Produce Aisle -> Dairy Section -> Checkout -> New Arrivals,18-24,Male,FFM102,23,221.8850533518883
+2024-07-12 08:00:00,promo zone,111.0,351.38,14.0,Dairy Section -> Frozen Foods -> Promo Zone,45-54,,,19,200.37472477037588
+2024-07-05 11:00:00,promo zone,119.0,274.32,9.0,Produce Aisle -> New Arrivals -> Frozen Foods -> Promo Zone,45-54,Female,FFM107,22,165.1381043058195
+2024-07-03 14:00:00,checkout,125.0,463.81,10.0,Checkout -> Dairy Section -> New Arrivals -> Frozen Foods,35-44,Female,FFM100,18,74.76415777678606
+2024-07-01 12:00:00,Dairy Section,123.0,450.1,13.0,Dairy Section -> Frozen Foods -> Promo Zone -> Checkout,18-24,Female,FFM104,19,230.39684480328512
+2024-07-06 15:00:00,promo zone,122.0,336.55,7.0,Produce Aisle -> New Arrivals -> Dairy Section -> Promo Zone,18-24,Male,FFM102,25,369.75127719265015
+2024-07-20 16:00:00,Dairy Section,122.0,142.03,18.0,Promo Zone -> Produce Aisle -> Checkout,18-24,Unknown,FFM101,18,162.82910385832753
+2024-07-09 17:00:00,Dairy Section,115.0,242.61,15.0,Frozen Foods -> Produce Aisle,18-24,Unknown,FFM107,13,220.84424834097769
+2024-07-14 20:00:00,Produce Aisle,123.0,253.56,6.0,Produce Aisle -> Checkout -> New Arrivals -> Promo Zone,55+,Female,FFM102,19,235.76760687317545
+2024-07-20 11:00:00,checkout,120.0,2500.0,5.0,Promo Zone -> New Arrivals,25-34,Female,FFM106,22,117.1576620287454
+2024-07-04 13:00:00,promo zone,141.0,415.46,15.0,Promo Zone -> Frozen Foods -> Checkout,25-34,Unknown,,19,185.93122908732676
+2024-07-16 18:00:00,new arrivals,110.0,154.66,11.0,Dairy Section -> Produce Aisle,18-24,Female,,15,103.40866209601832
+2024-07-05 09:00:00,Frozen Foods,120.0,496.53,5.0,Produce Aisle -> New Arrivals,25-34,Female,FFM100,21,52.61867880813767
+2024-07-06 09:00:00,new arrivals,102.0,496.28,11.0,Frozen Foods -> Checkout -> New Arrivals -> Promo Zone,35-44,,FFM105,20,131.05457836088618
+2024-07-13 13:00:00,checkout,,261.49,9.0,Promo Zone -> New Arrivals -> Dairy Section -> Produce Aisle,35-44,,FFM102,31,223.06306006592283
+2024-07-15 15:00:00,Frozen Foods,,332.85,9.0,Dairy Section -> Produce Aisle -> Promo Zone,25-34,Female,FFM107,27,200.36949342028916
+2024-07-21 17:00:00,checkout,138.0,292.77,8.0,Checkout -> Dairy Section -> New Arrivals -> Promo Zone,18-24,,FFM105,22,186.26149581889257
+2024-07-18 17:00:00,Dairy Section,127.0,390.18,12.0,Promo Zone -> New Arrivals -> Checkout,25-34,Male,,24,312.35245545828167
+2024-07-17 17:00:00,Frozen Foods,127.0,427.47,12.0,Checkout -> New Arrivals -> Dairy Section,25-34,Female,FFM101,22,107.48016781709038
+2024-07-08 16:00:00,Dairy Section,50.0,325.8,14.0,Produce Aisle -> Frozen Foods -> New Arrivals -> Checkout,25-34,Female,FFM105,23,156.70340405405923
+2024-07-12 12:00:00,new arrivals,127.0,346.91,10.0,Frozen Foods -> Promo Zone -> Checkout -> Dairy Section,unknown,Female,FFM106,20,238.232672084852
+2024-07-07 15:00:00,new arrivals,128.0,237.94,12.0,Checkout -> New Arrivals -> Promo Zone -> Frozen Foods,35-44,Unknown,FFM104,19,202.29849431973656
+2024-07-20 19:00:00,Frozen Foods,127.0,343.67,7.0,Produce Aisle -> New Arrivals -> Promo Zone,35-44,Female,FFM102,27,186.0860095124044
+2024-07-14 17:00:00,Frozen Foods,,316.28,8.0,Produce Aisle -> Dairy Section -> Promo Zone -> New Arrivals,25-34,Unknown,FFM103,25,106.44188133283863
+2024-07-01 09:00:00,promo zone,,208.82,8.0,Frozen Foods -> Promo Zone -> Produce Aisle -> Checkout,25-34,Female,FFM103,20,128.95357122997325
+2024-07-11 18:00:00,checkout,123.0,298.6,12.0,Frozen Foods -> Produce Aisle -> Promo Zone -> New Arrivals,35-44,,FFM105,21,99.05953850490702
+2024-07-24 17:00:00,promo zone,118.0,261.68,12.0,Dairy Section -> New Arrivals -> Promo Zone -> Frozen Foods,35-44,Female,FFM109,9,84.22213861341547
+2024-07-20 18:00:00,checkout,121.0,239.05,18.0,New Arrivals -> Frozen Foods -> Produce Aisle,45-54,Male,FFM100,32,125.03704652186272
+2024-07-03 17:00:00,promo zone,126.0,185.35,6.0,Dairy Section -> New Arrivals -> Promo Zone -> Frozen Foods,18-24,Female,,23,197.08343096990995
+2024-07-22 13:00:00,Dairy Section,106.0,306.25,9.0,Frozen Foods -> Checkout -> Promo Zone,35-44,unknown,FFM103,22,225.30361963993
+2024-07-20 12:00:00,Frozen Foods,105.0,221.95,12.0,Promo Zone -> New Arrivals -> Checkout,25-34,Unknown,FFM109,30,303.6837110936411
+2024-07-08 08:00:00,new arrivals,123.0,252.89,5.0,Produce Aisle -> Checkout -> Frozen Foods -> New Arrivals,55+,,,24,262.4636482991646
+2024-07-24 09:00:00,checkout,104.0,407.51,5.0,Dairy Section -> Produce Aisle -> Frozen Foods -> Promo Zone,35-44,Unknown,FFM103,21,83.57685426620885
+2024-07-24 14:00:00,checkout,128.0,363.21,,Checkout -> Produce Aisle -> Dairy Section,35-44,Unknown,FFM109,23,332.48103463621163
+2024-07-11 21:00:00,new arrivals,,202.12,6.0,Promo Zone -> Dairy Section,18-24,,FFM100,29,360.5858394679241
+2024-07-22 14:00:00,promo zone,140.0,335.19,13.0,New Arrivals -> Produce Aisle,35-44,Male,FFM108,22,321.83444784765805
+2024-07-06 16:00:00,checkout,132.0,313.28,14.0,Dairy Section -> Promo Zone -> Produce Aisle -> New Arrivals,18-24,Unknown,FFM103,17,212.80141337967223
+2024-07-21 08:00:00,Dairy Section,130.0,470.17,7.0,New Arrivals -> Frozen Foods -> Produce Aisle -> Promo Zone,25-34,Unknown,FFM106,19,223.5452219479068
+2024-07-01 07:00:00,Frozen Foods,109.0,438.31,11.0,Checkout -> Frozen Foods -> Promo Zone,18-24,Female,,15,131.03745032305707
+2024-07-07 19:00:00,check-out,124.0,146.63,11.0,New Arrivals -> Dairy Section,35-44,,FFM102,12,142.63366006435712
+2024-07-12 16:00:00,Frozen Foods,114.0,386.11,9.0,Promo Zone -> New Arrivals,25-34,Female,FFM109,13,155.21347816901638
+2024-07-17 13:00:00,checkout,126.0,426.52,10.0,Frozen Foods -> Checkout -> New Arrivals -> Produce Aisle,25-34,Male,,22,301.49523521678555
+2024-07-14 18:00:00,checkout,127.0,355.94,10.0,Dairy Section -> Produce Aisle -> Frozen Foods,55+,Male,FFM102,15,164.489390232689
+2024-07-01 13:00:00,new arrivals,124.0,266.46,6.0,Produce Aisle -> Frozen Foods -> Dairy Section -> New Arrivals,25-34,,FFM107,35,140.6372815787832
+2024-07-11 16:00:00,Dairy Section,118.0,541.34,11.0,Promo Zone -> Frozen Foods,35-44,Female,FFM107,28,277.2924404700581
+2024-07-15 17:00:00,Produce Aisle,115.0,365.14,7.0,Promo Zone -> Dairy Section -> Frozen Foods,25-34,Female,,10,39.93659414251796
+2024-07-24 21:00:00,new arrivals,121.0,497.65,12.0,New Arrivals -> Dairy Section,18-24,,,21,86.15425500260609
+2024-07-15 19:00:00,Produce Aisle,111.0,435.15,6.0,Checkout -> Produce Aisle -> Dairy Section,45-54,Female,FFM100,17,185.3462035256379
+2024-07-04 21:00:00,promo zone,118.0,346.41,6.0,Produce Aisle -> Checkout -> Dairy Section,18-24,Male,FFM109,21,81.28852718416876
+2024-07-16 07:00:00,Produce Aisle,128.0,242.03,9.0,New Arrivals -> Promo Zone -> Checkout,35-44,Male,FFM101,17,133.9529512757769
+2024-07-19 12:00:00,Dairy Section,108.0,297.59,14.0,Dairy Section -> New Arrivals -> Checkout -> Frozen Foods,35-44,Female,FFM107,17,107.68517988825724
+2024-07-18 18:00:00,promo zone,120.0,277.81,12.0,Produce Aisle -> Promo Zone,35-44,,FFM100,18,87.17397068321857
+2024-07-22 08:00:00,Produce Aisle,128.0,178.55,7.0,Dairy Section -> Frozen Foods,35-44,Unknown,,10,89.72046814016835
+2024-07-02 21:00:00,promo zone,130.0,365.03,11.0,Checkout -> Frozen Foods,25-34,Unknown,FFM107,16,156.11254734920152
+2024-07-09 10:00:00,Produce Aisle,110.0,456.74,11.0,Dairy Section -> Produce Aisle -> Promo Zone,18-24,Female,FFM107,13,83.56983958318189
+2024-07-04 10:00:00,Dairy Section,120.0,270.17,12.0,Produce Aisle -> Promo Zone -> New Arrivals,45-54,Female,FFM101,18,232.07915941238625
+2024-07-24 07:00:00,Produce Aisle,104.0,516.37,13.0,Frozen Foods -> Produce Aisle,35-44,Female,FFM103,12,97.78326470968312
+2024-07-17 09:00:00,Produce Aisle,116.0,144.24,9.0,Dairy Section -> New Arrivals -> Produce Aisle -> Checkout,45-54,Female,FFM105,24,284.92650775030376
+2024-07-01 10:00:00,Produce Aisle,123.0,405.44,12.0,Frozen Foods -> Produce Aisle,45-54,Female,,20,201.2137577939203
+2024-07-17 20:00:00,new arrivals,121.0,467.15,9.0,Checkout -> Produce Aisle,45-54,Unknown,,18,143.03945960194403
+2024-07-24 17:00:00,new arrivals,117.0,279.6,12.0,Promo Zone -> Frozen Foods -> Dairy Section -> New Arrivals,35-44,Female,FFM108,20,212.79144639874173
+2024-07-05 15:00:00,new arrivals,122.0,281.39,6.0,Promo Zone -> Frozen Foods -> Dairy Section -> New Arrivals,25-34,Female,FFM107,21,133.37782054205672
+2024-07-20 07:00:00,Dairy Section,123.0,404.28,10.0,Produce Aisle -> Promo Zone,45-54,Female,,24,172.1940495175662
+2024-07-17 16:00:00,promo zone,148.0,350.6,12.0,Promo Zone -> Dairy Section -> Checkout -> Produce Aisle,35-44,Female,FFM107,14,114.9614895911354
+2024-07-24 18:00:00,checkout,111.0,100.26,17.0,Promo Zone -> Produce Aisle,18-24,,FFM106,18,205.5034403324049
+2024-07-07 13:00:00,Produce Aisle,113.0,215.66,6.0,Promo Zone -> Frozen Foods -> Dairy Section -> Produce Aisle,55+,Female,,22,178.90216757314846
+2024-07-09 17:00:00,Produce Aisle,138.0,298.65,11.0,Promo Zone -> Frozen Foods -> Produce Aisle -> Checkout,55+,Unknown,FFM108,23,206.8891329882348
+2024-07-12 17:00:00,Dairy Section,103.0,163.03,13.0,Checkout -> Produce Aisle -> New Arrivals,35-44,,FFM101,22,143.23810880560484
+2024-07-12 08:00:00,Produce Aisle,127.0,252.58,14.0,Frozen Foods -> Dairy Section -> Promo Zone -> Produce Aisle,18-24,Male,FFM102,17,187.43542943410145
+2024-07-19 21:00:00,new arrivals,130.0,165.53,9.0,Checkout -> Dairy Section,25-34,Female,FFM109,19,216.2440435021494
+2024-07-20 15:00:00,checkout,125.0,262.98,10.0,Checkout -> New Arrivals,45-54,Unknown,FFM107,22,365.0101738164898
+2024-07-11 13:00:00,Frozen Foods,116.0,266.34,16.0,Produce Aisle -> Promo Zone -> New Arrivals,55+,,FFM105,22,131.97963304203088
+2024-07-13 13:00:00,Produce Aisle,101.0,335.18,11.0,Checkout -> Promo Zone,25-34,Female,FFM109,19,113.45360633779576
+2024-07-15 16:00:00,new arrivals,105.0,290.82,,New Arrivals -> Checkout,18-24,Female,FFM108,23,209.9054292892364
+2024-07-03 10:00:00,Frozen Foods,108.0,350.28,5.0,New Arrivals -> Dairy Section -> Produce Aisle -> Promo Zone,55+,Female,FFM109,22,154.22712476571616
+2024-07-10 13:00:00,checkout,,338.35,6.0,Produce Aisle -> Checkout,25-34,Male,FFM103,22,278.1780207636581
+2024-07-08 09:00:00,Frozen Foods,114.0,403.13,15.0,Frozen Foods -> Dairy Section -> Produce Aisle -> Promo Zone,35-44,Female,FFM107,26,320.1211857830925
+2024-07-16 09:00:00,new arrivals,123.0,387.38,5.0,Promo Zone -> New Arrivals,unknown,,FFM109,20,227.7909821341057
+2024-07-21 19:00:00,promo zone,128.0,376.81,8.0,Frozen Foods -> Dairy Section -> Promo Zone,18-24,,FFM102,19,203.82270094437996
+2024-07-02 17:00:00,promo zone,130.0,610.49,9.0,Checkout -> Dairy Section -> Promo Zone,35-44,Female,FFM102,18,311.3620153253786
+2024-07-07 15:00:00,Frozen Foods,104.0,334.74,,Checkout -> Produce Aisle -> Frozen Foods -> Promo Zone,18-24,,FFM107,25,369.623201696507
+2024-07-01 18:00:00,Dairy Section,119.0,559.36,11.0,Checkout -> Dairy Section -> Promo Zone,25-34,Female,FFM104,28,140.56980085871632
+2024-07-03 20:00:00,Frozen Foods,,341.22,8.0,Promo Zone -> Dairy Section -> Checkout,45-54,Female,FFM102,25,92.37043660610097
+2024-07-22 17:00:00,Produce Aisle,111.0,291.71,5.0,Produce Aisle -> Promo Zone -> Checkout -> Dairy Section,25-34,Female,FFM109,24,373.5616296975389
+2024-07-15 12:00:00,Produce Aisle,108.0,262.68,12.0,New Arrivals -> Checkout -> Dairy Section,unknown,Female,,25,208.19008583623275
+2024-07-06 21:00:00,promo zone,114.0,450.97,6.0,New Arrivals -> Promo Zone -> Frozen Foods -> Dairy Section,35-44,Unknown,FFM100,17,233.0447177697755
+2024-07-20 20:00:00,Dairy Section,113.0,464.05,9.0,Dairy Section -> Frozen Foods -> Checkout -> Promo Zone,25-34,Female,FFM102,24,101.94618735835174
+2024-07-03 20:00:00,new arrivals,,359.98,13.0,Frozen Foods -> Produce Aisle -> Dairy Section,25-34,,,26,372.8480642965951
+2024-07-06 07:00:00,Produce Aisle,122.0,413.35,6.0,Promo Zone -> Checkout -> Dairy Section,25-34,Female,FFM108,22,295.972733536519
+2024-07-21 20:00:00,promo zone,121.0,172.28,7.0,Produce Aisle -> New Arrivals,25-34,Unknown,FFM104,18,80.3563754505766
+2024-07-17 13:00:00,checkout,113.0,145.12,19.0,Produce Aisle -> Checkout,18-24,Female,,21,62.90125454736327
+2024-07-18 09:00:00,promo zone,117.0,424.63,9.0,Promo Zone -> Frozen Foods,25-34,Female,FFM109,22,106.61809533182736
+2024-07-13 16:00:00,Produce Aisle,130.0,287.32,12.0,Promo Zone -> Produce Aisle -> Frozen Foods -> New Arrivals,35-44,Male,FFM101,19,57.365351088462106
+2024-07-16 12:00:00,Produce Aisle,119.0,374.93,9.0,Checkout -> Promo Zone -> Dairy Section,45-54,Male,FFM106,24,202.82320221392905
+2024-07-21 20:00:00,promo zone,116.0,228.27,13.0,New Arrivals -> Dairy Section -> Checkout -> Promo Zone,35-44,Female,FFM101,23,196.004281881787
+2024-07-10 13:00:00,new arrivals,123.0,465.7,11.0,Dairy Section -> Promo Zone,45-54,Male,FFM103,22,115.08901760608518
+2024-07-02 07:00:00,Frozen Foods,127.0,145.96,14.0,Promo Zone -> Produce Aisle,18-24,Female,,16,94.7543237583778
+2024-07-02 08:00:00,Produce Aisle,,161.44,6.0,Dairy Section -> Promo Zone -> Checkout -> New Arrivals,25-34,,FFM106,14,191.80247090607395
+2024-07-06 14:00:00,promo zone,120.0,444.43,7.0,Promo Zone -> Frozen Foods -> Checkout -> New Arrivals,35-44,Female,FFM103,25,124.14569543163488
+2024-07-09 18:00:00,promo zone,104.0,811.0,14.0,Produce Aisle -> New Arrivals -> Dairy Section,35-44,Male,FFM106,23,98.35018544564906
+2024-07-02 11:00:00,Dairy Section,100.0,337.86,12.0,Produce Aisle -> Promo Zone,18-24,,FFM106,20,239.097027550128
+2024-07-02 14:00:00,Frozen Foods,112.0,289.27,13.0,Produce Aisle -> Checkout -> Dairy Section,45-54,Male,FFM100,18,226.6597610298207
+2024-07-21 21:00:00,checkout,121.0,226.4,13.0,Dairy Section -> Frozen Foods -> Promo Zone -> Checkout,45-54,Female,FFM105,17,203.82821041156348
+2024-07-17 07:00:00,new arrivals,134.0,280.01,8.0,Produce Aisle -> Dairy Section -> New Arrivals,35-44,Unknown,FFM108,22,278.7166314394517
+2024-07-24 18:00:00,checkout,122.0,215.25,10.0,Dairy Section -> Checkout,18-24,Female,FFM101,21,316.1768356259795
+2024-07-05 10:00:00,Frozen Foods,109.0,454.23,13.0,Dairy Section -> Frozen Foods -> New Arrivals -> Promo Zone,45-54,Male,FFM102,17,242.93939186030377
+2024-07-23 14:00:00,Frozen Foods,123.0,480.45,6.0,New Arrivals -> Dairy Section -> Frozen Foods -> Promo Zone,35-44,Female,FFM109,32,345.32934988380896
+2024-07-20 12:00:00,Frozen Foods,122.0,231.43,6.0,Promo Zone -> New Arrivals -> Frozen Foods,45-54,,FFM104,26,285.757862831216
+2024-07-01 09:00:00,checkout,122.0,327.55,17.0,Produce Aisle -> Promo Zone -> New Arrivals -> Dairy Section,45-54,Male,FFM108,21,240.5065988362618
+2024-07-10 17:00:00,Frozen Foods,,167.49,12.0,Frozen Foods -> New Arrivals -> Promo Zone,45-54,Male,FFM103,12,46.42269092389013
+2024-07-21 19:00:00,promo zone,106.0,407.31,10.0,Dairy Section -> Checkout -> New Arrivals,35-44,Female,FFM100,21,212.3736705131273
+2024-07-17 08:00:00,checkout,114.0,404.7,8.0,New Arrivals -> Produce Aisle,18-24,Female,FFM103,28,261.3424648068499
+2024-07-17 13:00:00,Frozen Foods,124.0,270.47,9.0,Produce Aisle -> Checkout -> Dairy Section,35-44,Unknown,FFM105,14,61.19618821193114
+2024-07-09 11:00:00,promo zone,133.0,301.69,9.0,Checkout -> Promo Zone -> Frozen Foods,35-44,,FFM104,17,208.21622985588587
+2024-07-01 12:00:00,Dairy Section,135.0,290.62,9.0,New Arrivals -> Dairy Section,45-54,Female,,24,93.68976423911576
+2024-07-24 07:00:00,Frozen Foods,,138.15,9.0,Produce Aisle -> Promo Zone,18-24,,FFM100,17,139.04266856892977
+2024-07-20 07:00:00,checkout,132.0,454.6,7.0,Promo Zone -> Checkout -> Frozen Foods,18-24,Male,FFM103,17,142.504916906504
+2024-07-24 14:00:00,Produce Aisle,115.0,223.3,9.0,Frozen Foods -> Checkout -> New Arrivals -> Dairy Section,55+,Female,FFM105,22,225.871139407394
+2024-07-11 11:00:00,Frozen Foods,116.0,223.99,8.0,Checkout -> New Arrivals -> Produce Aisle -> Dairy Section,45-54,Female,,21,218.21757396052064
+2024-07-24 17:00:00,Produce Aisle,130.0,284.96,11.0,Checkout -> Frozen Foods,55+,Unknown,FFM109,23,141.11499753990833
+2024-07-04 20:00:00,promo zone,,399.55,,Dairy Section -> Produce Aisle -> Promo Zone,45-54,Female,FFM109,22,187.03779456963028
+2024-07-21 09:00:00,Dairy Section,119.0,240.87,9.0,Dairy Section -> New Arrivals -> Produce Aisle -> Promo Zone,35-44,Male,FFM103,18,235.3707688934689
+2024-07-17 07:00:00,new arrivals,128.0,104.78,6.0,New Arrivals -> Promo Zone -> Produce Aisle -> Frozen Foods,35-44,Unknown,FFM108,13,161.08115036199487
+2024-07-10 12:00:00,Dairy Section,117.0,211.3,9.0,Frozen Foods -> Checkout -> New Arrivals -> Promo Zone,55+,Female,FFM104,28,360.4473499672867
+2024-07-08 11:00:00,Frozen Foods,125.0,342.41,6.0,Produce Aisle -> Frozen Foods -> Promo Zone -> Dairy Section,35-44,Female,FFM107,13,54.45781410551241
+2024-07-23 16:00:00,Produce Aisle,106.0,518.98,11.0,Checkout -> Dairy Section -> Promo Zone -> New Arrivals,35-44,Unknown,FFM108,23,233.7869643156191
+2024-07-02 15:00:00,Produce Aisle,126.0,174.01,9.0,Frozen Foods -> Checkout -> New Arrivals,18-24,Male,FFM109,14,174.9726146713905
+2024-07-22 15:00:00,checkout,132.0,170.35,13.0,Produce Aisle -> Frozen Foods -> Promo Zone -> Dairy Section,35-44,,FFM104,23,94.63012949654922
+2024-07-07 12:00:00,Produce Aisle,131.0,148.74,14.0,Dairy Section -> Checkout -> Produce Aisle -> New Arrivals,45-54,,FFM105,16,74.05421907009902
+2024-07-11 19:00:00,checkout,99.0,136.33,12.0,Checkout -> Produce Aisle,25-34,Male,FFM100,20,255.83454160775423
+2024-07-04 09:00:00,promo zone,120.0,420.57,6.0,Dairy Section -> Frozen Foods -> Checkout -> Produce Aisle,25-34,Male,,31,150.52497495472326
+2024-07-24 08:00:00,new arrivals,104.0,449.47,6.0,Promo Zone -> Produce Aisle,25-34,,,20,76.07916450420286
+2024-07-24 21:00:00,Frozen Foods,112.0,317.78,5.0,Dairy Section -> Promo Zone -> Checkout -> Produce Aisle,25-34,Unknown,FFM106,21,194.23050020843056
+2024-07-02 08:00:00,checkout,,253.23,13.0,New Arrivals -> Promo Zone -> Dairy Section -> Frozen Foods,25-34,,FFM103,21,208.91764144198424
+2024-07-24 16:00:00,new arrivals,,479.11,8.0,Produce Aisle -> Checkout,25-34,Male,,16,96.98120216581782
+2024-07-15 16:00:00,Produce Aisle,122.0,317.39,15.0,Frozen Foods -> Dairy Section,55+,Female,FFM101,17,249.91863427057152
+2024-07-14 12:00:00,Produce Aisle,,408.94,15.0,Dairy Section -> Produce Aisle -> Frozen Foods -> Promo Zone,35-44,Female,FFM104,19,65.50441956703204
+2024-07-22 19:00:00,new arrivals,,248.36,8.0,Frozen Foods -> Produce Aisle,18-24,Female,,21,308.74176852977433
+2024-07-15 21:00:00,Produce Aisle,148.0,304.42,10.0,Frozen Foods -> Promo Zone -> New Arrivals -> Checkout,18-24,Female,FFM102,18,187.6478292322224
+2024-07-20 17:00:00,promo zone,102.0,176.27,5.0,Frozen Foods -> Dairy Section -> Promo Zone,35-44,Male,FFM105,19,234.4445917113129
+2024-07-10 20:00:00,promo zone,118.0,362.92,12.0,New Arrivals -> Checkout,25-34,,FFM107,22,100.80348386541738
+2024-07-08 07:00:00,new arrivals,127.0,319.09,7.0,Dairy Section -> Produce Aisle -> New Arrivals,45-54,Unknown,FFM106,14,150.02150111726198
+2024-07-10 11:00:00,checkout,144.0,210.54,9.0,Checkout -> Promo Zone,35-44,Female,FFM102,14,175.5651686623669
+2024-07-17 18:00:00,checkout,146.0,211.89,12.0,Checkout -> New Arrivals -> Promo Zone -> Dairy Section,45-54,,FFM107,23,249.23873807960263
+2024-07-16 21:00:00,new arrivals,119.0,461.6,14.0,Promo Zone -> Produce Aisle -> Frozen Foods,25-34,Unknown,FFM101,20,226.7666397755678
+2024-07-12 12:00:00,checkout,121.0,497.17,5.0,Dairy Section -> Promo Zone,35-44,Female,FFM109,22,121.77779665370478
+2024-07-11 19:00:00,checkout,146.0,278.69,6.0,Checkout -> New Arrivals -> Promo Zone,25-34,Unknown,FFM108,19,170.07450594357994
+2024-07-15 19:00:00,promo zone,124.0,306.78,5.0,Produce Aisle -> Promo Zone -> Dairy Section,55+,,FFM103,25,265.4678844837576
+2024-07-19 20:00:00,checkout,115.0,340.01,14.0,Frozen Foods -> Dairy Section,35-44,Female,FFM100,13,105.77912642522602
+2024-07-18 09:00:00,Dairy Section,117.0,314.8,,Promo Zone -> Dairy Section,25-34,,FFM107,21,192.78712140122872
+2024-07-14 14:00:00,Frozen Foods,123.0,132.57,,Frozen Foods -> Promo Zone -> Dairy Section,25-34,Male,FFM106,13,107.46115369586887
+2024-07-10 14:00:00,Produce Aisle,100.0,342.79,7.0,Frozen Foods -> Produce Aisle -> Dairy Section -> New Arrivals,18-24,Unknown,,13,147.95947476252567
+2024-07-10 18:00:00,Dairy Section,114.0,283.0,11.0,Promo Zone -> New Arrivals -> Produce Aisle -> Checkout,35-44,Female,,21,106.4463950958013
+2024-07-16 17:00:00,checkout,,226.73,9.0,Produce Aisle -> Dairy Section -> Promo Zone,25-34,Unknown,FFM104,22,285.3995990611498
+2024-07-20 13:00:00,promo zone,129.0,350.54,7.0,Dairy Section -> New Arrivals -> Frozen Foods -> Checkout,35-44,Unknown,FFM109,23,203.80888531866148
+2024-07-10 08:00:00,new arrivals,,360.0,6.0,Frozen Foods -> Promo Zone -> Produce Aisle -> Checkout,25-34,Female,,17,76.29963209895033
+2024-07-05 19:00:00,checkout,137.0,218.99,13.0,New Arrivals -> Frozen Foods -> Produce Aisle,35-44,Male,FFM104,21,167.51023105073062
+2024-07-21 14:00:00,promo zone,126.0,254.16,6.0,Dairy Section -> Frozen Foods -> New Arrivals -> Produce Aisle,45-54,Unknown,FFM106,18,136.88284490029525
+2024-07-19 09:00:00,Frozen Foods,125.0,240.62,11.0,Promo Zone -> Produce Aisle -> Frozen Foods -> Checkout,45-54,,FFM104,19,116.8655159171409
+2024-07-24 10:00:00,checkout,122.0,289.72,10.0,New Arrivals -> Frozen Foods -> Checkout,45-54,,FFM107,23,258.1419307449915
+2024-07-12 11:00:00,new arrivals,114.0,297.32,9.0,Checkout -> Frozen Foods,18-24,Female,,18,230.9636971630736
+2024-07-22 19:00:00,promo zone,128.0,366.85,6.0,Produce Aisle -> Checkout -> Dairy Section,18-24,Male,,23,69.96733591807721
+2024-07-17 12:00:00,promo zone,,248.31,8.0,Promo Zone -> Frozen Foods -> Produce Aisle,35-44,Male,FFM105,22,294.45983589295935
+2024-07-17 08:00:00,promo zone,130.0,337.34,11.0,Produce Aisle -> Frozen Foods -> Checkout,25-34,,,24,82.3179241139255
+2024-07-05 13:00:00,Frozen Foods,97.0,350.7,13.0,Frozen Foods -> Checkout -> New Arrivals,25-34,Female,FFM104,19,164.88165016675262
+2024-07-04 11:00:00,checkout,121.0,319.83,7.0,Frozen Foods -> Dairy Section -> New Arrivals,18-24,Female,FFM108,16,217.77283468431395
+2024-07-05 14:00:00,Frozen Foods,125.0,274.04,11.0,Promo Zone -> Checkout,25-34,Female,,18,275.8901459030332
+2024-07-01 15:00:00,Produce Aisle,122.0,318.06,8.0,Produce Aisle -> Dairy Section -> New Arrivals -> Promo Zone,18-24,,FFM101,18,133.32931881654946
+2024-07-10 21:00:00,Produce Aisle,135.0,375.17,10.0,Produce Aisle -> Checkout -> Dairy Section -> Frozen Foods,55+,,FFM100,15,217.3917917485608
+2024-07-24 10:00:00,checkout,118.0,383.92,8.0,Frozen Foods -> Checkout -> Produce Aisle,25-34,Female,FFM107,18,115.54788663413667
+2024-07-10 15:00:00,Frozen Foods,122.0,481.54,8.0,Checkout -> Dairy Section,35-44,Female,,14,162.14207487448286
+2024-07-17 19:00:00,new arrivals,121.0,201.0,11.0,New Arrivals -> Checkout,18-24,Male,FFM102,19,187.6453299583739
+2024-07-17 16:00:00,promo zone,128.0,256.0,7.0,Frozen Foods -> Checkout -> Dairy Section -> Promo Zone,35-44,Female,,22,87.40700486522626
+2024-07-06 11:00:00,promo zone,118.0,138.65,10.0,Frozen Foods -> New Arrivals -> Produce Aisle -> Promo Zone,25-34,Female,,22,129.93135835643363
+2024-07-03 10:00:00,checkout,117.0,393.1,10.0,Produce Aisle -> Checkout -> Dairy Section -> Frozen Foods,55+,,,15,71.38437173112477
+2024-07-18 11:00:00,Produce Aisle,109.0,266.55,14.0,Promo Zone -> Frozen Foods -> Produce Aisle,55+,Male,,21,198.00146501662988
+2024-07-11 07:00:00,Produce Aisle,,320.62,17.0,Produce Aisle -> New Arrivals,25-34,Female,FFM106,19,85.49450675926028
+2024-07-19 17:00:00,promo zone,102.0,239.57,12.0,Checkout -> Promo Zone -> Dairy Section -> Frozen Foods,55+,Male,FFM109,14,116.92630734520635
+2024-07-09 15:00:00,checkout,119.0,267.33,15.0,Dairy Section -> New Arrivals -> Checkout -> Promo Zone,unknown,Male,,15,117.73809758435024
+2024-07-08 17:00:00,Frozen Foods,112.0,422.32,6.0,Promo Zone -> Produce Aisle,45-54,,,16,142.41944357232285
+2024-07-06 15:00:00,Produce Aisle,102.0,369.42,6.0,Checkout -> New Arrivals -> Promo Zone -> Frozen Foods,45-54,Male,FFM107,21,54.30047156309374
+2024-07-17 18:00:00,Frozen Foods,121.0,288.85,17.0,Checkout -> Promo Zone -> New Arrivals -> Frozen Foods,25-34,Female,,26,393.10174356449744
+2024-07-13 07:00:00,Produce Aisle,113.0,376.78,13.0,Produce Aisle -> Promo Zone -> New Arrivals -> Dairy Section,35-44,Female,,18,123.8966327973918
+2024-07-12 07:00:00,Produce Aisle,127.0,378.99,12.0,Promo Zone -> Dairy Section -> Checkout,18-24,Unknown,FFM105,20,248.5664887568977
+2024-07-09 14:00:00,Dairy Section,113.0,260.86,7.0,Dairy Section -> Checkout,18-24,,,21,330.38975801603715
+2024-07-22 13:00:00,Produce Aisle,94.0,153.09,19.0,Checkout -> Promo Zone -> Frozen Foods -> Produce Aisle,unknown,Unknown,FFM109,19,275.2462794919232
+2024-07-06 17:00:00,new arrivals,116.0,210.08,8.0,Frozen Foods -> Checkout -> Promo Zone -> Produce Aisle,25-34,Female,FFM108,14,179.46610255997587
+2024-07-09 13:00:00,checkout,112.0,165.95,9.0,Dairy Section -> Promo Zone,45-54,Unknown,FFM106,19,151.50720253809615
+2024-07-06 10:00:00,checkout,,416.44,7.0,Checkout -> New Arrivals,45-54,,FFM109,24,249.33806827100156
+2024-07-08 21:00:00,Frozen Foods,,433.81,9.0,Dairy Section -> New Arrivals -> Produce Aisle -> Promo Zone,55+,,FFM104,25,294.6733663809286
+2024-07-14 14:00:00,Produce Aisle,132.0,458.64,11.0,Frozen Foods -> Dairy Section,unknown,Male,FFM107,20,221.10217280393397
+2024-07-20 19:00:00,new arrivals,132.0,692.0,9.0,Frozen Foods -> Dairy Section -> Promo Zone,25-34,Female,FFM101,34,277.8191696396791
+2024-07-15 21:00:00,Frozen Foods,94.0,407.14,11.0,Dairy Section -> New Arrivals,18-24,Male,FFM106,23,355.6483161034833
+2024-07-17 15:00:00,Dairy Section,132.0,521.22,14.0,Frozen Foods -> Dairy Section -> New Arrivals,25-34,,FFM103,19,159.73594482426128
+2024-07-15 20:00:00,Frozen Foods,124.0,411.2,8.0,Produce Aisle -> Checkout -> Promo Zone -> Frozen Foods,18-24,Female,FFM108,22,358.4829051968307
+2024-07-22 13:00:00,Frozen Foods,121.0,881.0,9.0,Frozen Foods -> Promo Zone -> New Arrivals,18-24,Female,,13,171.49892441313713
+2024-07-07 11:00:00,Produce Aisle,121.0,476.83,9.0,New Arrivals -> Dairy Section,25-34,Male,FFM100,17,70.67726667808455
+2024-07-07 11:00:00,Dairy Section,120.0,304.17,8.0,Checkout -> New Arrivals,45-54,,FFM106,19,269.74074938170355
+2024-07-21 12:00:00,Frozen Foods,119.0,276.76,8.0,New Arrivals -> Frozen Foods -> Produce Aisle -> Promo Zone,35-44,Female,FFM105,18,153.01046991887245
+2024-07-23 10:00:00,new arrivals,128.0,345.11,,Checkout -> Frozen Foods -> Promo Zone,25-34,,FFM107,21,134.94365830209944
+2024-07-15 10:00:00,new arrivals,136.0,195.1,11.0,Promo Zone -> Frozen Foods -> New Arrivals -> Checkout,35-44,Female,FFM104,18,176.20725175645237
+2024-07-20 12:00:00,checkout,119.0,300.28,12.0,Frozen Foods -> New Arrivals -> Checkout -> Produce Aisle,25-34,,FFM100,19,151.1122333425582
+2024-07-07 11:00:00,Dairy Section,112.0,462.04,6.0,Dairy Section -> Frozen Foods,18-24,Unknown,FFM100,21,172.36107500968592
+2024-07-18 16:00:00,Dairy Section,141.0,362.24,12.0,Checkout -> New Arrivals -> Produce Aisle -> Promo Zone,45-54,,FFM108,24,179.02682976681322
+2024-07-13 14:00:00,checkout,113.0,305.84,12.0,Promo Zone -> Checkout -> Produce Aisle,35-44,,FFM109,25,369.1093251098756
+2024-07-11 11:00:00,Frozen Foods,95.0,308.96,14.0,New Arrivals -> Promo Zone -> Frozen Foods,45-54,Male,FFM105,24,174.7330216683377
+2024-07-06 07:00:00,Dairy Section,149.0,181.86,14.0,New Arrivals -> Frozen Foods -> Produce Aisle -> Promo Zone,18-24,Unknown,FFM109,19,118.76610142698937
+2024-07-15 19:00:00,new arrivals,120.0,285.0,12.0,Promo Zone -> Dairy Section -> Frozen Foods,45-54,Female,FFM104,20,176.80780751232922
+2024-07-24 13:00:00,new arrivals,122.0,136.57,11.0,Produce Aisle -> Promo Zone -> New Arrivals,35-44,Male,FFM100,16,111.75857786310728
+2024-07-01 17:00:00,Produce Aisle,121.0,402.24,15.0,Promo Zone -> Checkout,35-44,Female,FFM105,21,118.3901755111014
+2024-07-13 20:00:00,Dairy Section,128.0,326.0,8.0,Promo Zone -> Dairy Section -> Frozen Foods -> Produce Aisle,35-44,Female,FFM105,11,96.66681767167584
+2024-07-11 17:00:00,Frozen Foods,,385.49,9.0,Dairy Section -> Checkout -> Frozen Foods -> Produce Aisle,55+,Female,FFM102,24,93.15847115172252
+2024-07-19 15:00:00,checkout,107.0,397.94,11.0,Checkout -> New Arrivals,35-44,,,16,252.17585160802952
+2024-07-02 16:00:00,checkout,115.0,431.88,6.0,Promo Zone -> Produce Aisle,35-44,Female,FFM107,12,119.85319709417054
+2024-07-07 13:00:00,Frozen Foods,140.0,308.69,6.0,Frozen Foods -> Produce Aisle,unknown,Male,FFM100,15,131.88459448678628
+2024-07-01 21:00:00,promo zone,126.0,391.66,11.0,Produce Aisle -> Checkout -> Promo Zone -> New Arrivals,45-54,Male,FFM100,16,158.89279892742465
+2024-07-10 14:00:00,Produce Aisle,119.0,284.03,10.0,Dairy Section -> Frozen Foods,25-34,Female,FFM105,10,114.62598153251908
+2024-07-05 10:00:00,checkout,111.0,181.33,12.0,Promo Zone -> Produce Aisle,45-54,Male,FFM109,20,219.0439818597667
+2024-07-09 18:00:00,Dairy Section,129.0,453.07,9.0,Dairy Section -> Promo Zone,25-34,Male,,18,100.74343399090276
+2024-07-06 19:00:00,Produce Aisle,,290.31,9.0,Checkout -> New Arrivals -> Promo Zone,25-34,Female,FFM100,14,132.0683712138015
+2024-07-17 19:00:00,Dairy Section,114.0,159.05,13.0,Checkout -> New Arrivals,35-44,Unknown,FFM105,11,111.14850195479931
+2024-07-07 15:00:00,new arrivals,105.0,253.32,10.0,New Arrivals -> Frozen Foods,55+,Unknown,FFM100,21,142.284474578178
+2024-07-03 20:00:00,Produce Aisle,106.0,257.27,5.0,Promo Zone -> New Arrivals,55+,Female,,26,382.43222236813
+2024-07-05 21:00:00,checkout,132.0,346.17,14.0,Promo Zone -> New Arrivals,25-34,Male,FFM105,31,457.7696131337592
+2024-07-18 07:00:00,Produce Aisle,108.0,534.7,14.0,Checkout -> New Arrivals -> Frozen Foods -> Produce Aisle,35-44,Female,FFM102,13,131.87531057439855
+2024-07-18 13:00:00,Produce Aisle,,352.24,7.0,Frozen Foods -> Promo Zone -> Dairy Section,25-34,Male,FFM107,15,85.07286973921394
+2024-07-05 10:00:00,Produce Aisle,108.0,320.68,9.0,Dairy Section -> Produce Aisle,unknown,,,22,211.2919770863581
+2024-07-11 17:00:00,promo zone,,545.58,13.0,Frozen Foods -> Promo Zone -> Dairy Section,unknown,Male,FFM105,29,438.3225565291453
+2024-07-10 07:00:00,Produce Aisle,97.0,397.89,15.0,Frozen Foods -> New Arrivals -> Dairy Section -> Promo Zone,35-44,Male,,17,212.1320149320527
+2024-07-05 08:00:00,Dairy Section,126.0,325.42,9.0,New Arrivals -> Dairy Section -> Checkout -> Promo Zone,45-54,Unknown,,15,68.99704167312763
+2024-07-22 08:00:00,new arrivals,125.0,252.06,9.0,New Arrivals -> Frozen Foods,45-54,Female,,14,44.52170548397562
+2024-07-20 14:00:00,Frozen Foods,116.0,331.62,10.0,Frozen Foods -> Checkout -> New Arrivals -> Produce Aisle,35-44,Male,FFM100,16,76.70319941498808
+2024-07-05 11:00:00,Produce Aisle,131.0,293.36,11.0,New Arrivals -> Promo Zone -> Produce Aisle,18-24,Unknown,FFM104,30,384.1688634672513
+2024-07-07 20:00:00,checkout,131.0,309.14,8.0,Produce Aisle -> Checkout,35-44,Female,FFM107,18,260.28742047189667
+2024-07-15 14:00:00,Produce Aisle,119.0,431.44,9.0,Promo Zone -> Checkout -> Frozen Foods -> New Arrivals,35-44,Unknown,FFM102,12,74.5682361062063
+2024-07-07 11:00:00,checkout,103.0,245.97,9.0,Produce Aisle -> Dairy Section -> New Arrivals -> Frozen Foods,35-44,Unknown,,22,195.450532828566
+2024-07-07 21:00:00,Dairy Section,,351.35,,Dairy Section -> Checkout -> Promo Zone -> Frozen Foods,25-34,Unknown,FFM105,19,208.5593491298911
+2024-07-17 18:00:00,checkout,113.0,394.89,,Produce Aisle -> New Arrivals,55+,Male,FFM104,19,104.82894156109512
+2024-07-12 08:00:00,Frozen Foods,129.0,233.79,14.0,Promo Zone -> Produce Aisle -> Dairy Section -> New Arrivals,18-24,Male,FFM105,18,304.36314996817214
+2024-07-21 19:00:00,new arrivals,106.0,217.74,11.0,Promo Zone -> Dairy Section -> Frozen Foods -> Checkout,35-44,Female,FFM109,21,95.86253360921572
+2024-07-17 08:00:00,checkout,150.0,284.97,10.0,Promo Zone -> Dairy Section -> New Arrivals,35-44,,FFM100,17,77.79998104920236
+2024-07-06 15:00:00,checkout,129.0,253.84,5.0,New Arrivals -> Dairy Section -> Produce Aisle,35-44,,FFM106,16,97.15307527371066
+2024-07-09 20:00:00,new arrivals,,415.23,,Promo Zone -> Frozen Foods -> Dairy Section,35-44,,FFM108,15,169.74566542063565
+2024-07-17 08:00:00,Frozen Foods,127.0,199.82,9.0,Produce Aisle -> Dairy Section -> Frozen Foods -> Checkout,25-34,Female,FFM101,22,274.864661668352
+2024-07-02 15:00:00,Produce Aisle,109.0,306.85,6.0,Produce Aisle -> Frozen Foods -> Checkout -> New Arrivals,18-24,,FFM109,20,154.47381675684096
+2024-07-20 18:00:00,checkout,127.0,554.6,6.0,Dairy Section -> Frozen Foods -> Checkout -> Produce Aisle,35-44,,FFM104,12,67.25717386133836
+2024-07-20 09:00:00,new arrivals,119.0,341.31,9.0,Promo Zone -> Produce Aisle,35-44,Unknown,FFM109,18,257.651721879643
+2024-07-16 16:00:00,Dairy Section,107.0,357.93,10.0,Produce Aisle -> Frozen Foods -> Dairy Section -> Checkout,18-24,Male,FFM103,16,167.07406003359708
+2024-07-01 15:00:00,new arrivals,102.0,416.07,5.0,Produce Aisle -> New Arrivals -> Promo Zone -> Dairy Section,45-54,Male,FFM105,15,193.57384951431544
