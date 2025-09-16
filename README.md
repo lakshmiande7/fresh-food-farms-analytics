@@ -57,3 +57,5 @@ The dashboard covers:
 
 ## 📄 Final Report
 [Download Report](Fresh
+## 📑 Google Docs Report
+[View Online](https://docs.google.com/document/d/1TPle6MeUmz8pLzm-pAzmfe3dYs8-TGNH4ND6wcW7GxY/edit?usp=sharing)
