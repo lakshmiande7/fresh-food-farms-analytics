@@ -54,3 +54,6 @@ The dashboard covers:
 
 ## Power BI Dashboard
 📊 [View Dashboard (PDF)](fresh_foods_supervueai.pdf)
+
+## 📄 Final Report
+[Download Report](Fresh
