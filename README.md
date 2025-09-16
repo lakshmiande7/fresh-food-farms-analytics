@@ -51,3 +51,6 @@ The dashboard covers:
 - Customer path sequences  
 - Product category insights  
 
+
+## Power BI Dashboard
+📊 [View Dashboard (PDF)](fresh_foods_supervueai.pdf)
