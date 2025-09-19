@@ -1,6 +1,6 @@
 # Fresh Food Farms — Analytics & Forecasting
 
-This project is part of my portfolio work where I analyze data from Fresh Food Farms to understand customers, products, and store performance. The goal is to explore the data, build useful metrics, and create models that can help in decision making.
+This demo project is part of my real world project work where I analyze data from Fresh Food Farms to understand customers, products, and store performance. The goal is to explore the data, build useful metrics, and create models that can help in decision making.
 
 ## Main Focus
 - Understanding the customer base and demographics  
